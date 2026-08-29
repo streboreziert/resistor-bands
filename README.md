@@ -6,6 +6,10 @@ Live: [https://robertstreize.com/lab.html#resistor](https://robertstreize.com/la
 
 ## Extra
 
+4/5-band, inverse, E24 snap, series/parallel hunt for a target ohm.
+
+Was a one-function calculator. This is the product.
+
 Forward 4-band plus inverse search (closest preferred value) and optional 5-band (3 digits).
 
 ## Install

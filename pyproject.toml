@@ -1,0 +1,15 @@
+[project]
+name = "resistor-bands"
+version = "0.1.0"
+description = "Resistor color decode and inverse."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Roberts Treize" }]
+[project.urls]
+Homepage = "https://robertstreize.com/lab.html"
+[project.scripts]
+resistor_bands = "resistor_bands.cli:main"
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
